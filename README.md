@@ -1,6 +1,6 @@
 # ☀️ Solar-What
 
-An intelligent, servo-driven solar panel system designed to **track the sun**, **optimize energy collection**, and **manage power flow** between a battery and the grid.
+An intelligent, servo-driven solar panel system designed to **track the sun**, **optimize energy collection**, and **manage power flow** between a battery and the grid. Based off of this project: https://www.instructables.com/Operating-a-Serial-Servo-Waveshare-Using-Arduino/
 
 ---
 
